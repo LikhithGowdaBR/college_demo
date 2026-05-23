@@ -1,4 +1,4 @@
-# college_demo
+ # college_demo
 This is my git repo
 <br>
-Author - Likhith
+Author - Likhith Gowda B R
